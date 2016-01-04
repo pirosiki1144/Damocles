@@ -1,0 +1,11 @@
+﻿extends _layout
+
+block title
+    title= "index インデックス"
+
+block body
+  h1 Welcome to #{title}
+  p こんにちは。
+  p Memo DB :  #{document}
+
+  a(href='./register') register
