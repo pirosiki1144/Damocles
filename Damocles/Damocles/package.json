@@ -8,16 +8,18 @@
     "email": ""
   },
   "dependencies": {
-    "body-parser": "^1.14.2",
-    "browserify": "^12.0.1",
-    "cookie-parser": "^1.4.0",
-    "date-utils": "^1.2.17",
+    "body-parser": "^1.15.0",
+    "browserify": "^12.0.2",
+    "cookie-parser": "^1.4.1",
+    "date-utils": "^1.2.19",
     "debug": "^2.2.0",
-    "express": "^4.13.3",
+    "express": "^4.13.4",
     "jade": "^1.11.0",
-    "mongoose": "^4.3.4",
-    "morgan": "^1.6.1",
+    "mongoose": "^4.4.8",
+    "morgan": "^1.7.0",
+    "on-finished": "^2.3.0",
     "serve-favicon": "^2.3.0",
-    "vue": "^1.0.13"
+    "vue": "^1.0.18",
+    "yuidocjs": "^0.10.0"
   }
 }

@@ -38,7 +38,7 @@
     <Content Include="views\index.jade" />
     <Content Include="views\register.jade" />
     <Content Include="views\_layout.jade" />
-    <TypeScriptCompile Include="app.ts" />
+    <TypeScriptCompile Include="app.js" />
     <Content Include="bin\Microsoft.NodejsTools.WebRole.dll" />
     <Content Include="bin\www" />
     <Content Include="package.json" />
